@@ -1,0 +1,9 @@
+#Directories
+bin
+obj
+
+#Files
+.cbp
+.depend
+
+
