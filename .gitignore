@@ -5,5 +5,5 @@ obj
 #Files
 *.cbp
 *.depend
-
+*.layout
 
