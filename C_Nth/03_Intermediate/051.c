@@ -21,3 +21,7 @@ int main(void) {
 	
 	return 0;
 }
+
+/*
+	함수원형 : int getch(void)
+*/
