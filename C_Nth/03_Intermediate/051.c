@@ -1,3 +1,5 @@
+//	문자 입력받기: getch() 
+
 #include <stdio.h>
 
 #define ENTER 13
