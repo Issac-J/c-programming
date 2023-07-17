@@ -4,7 +4,7 @@ int main(void) {
 	
 	char fname[] = "Basic.txt";
 	char name[30] = "ȫ�浿";
-	int point = 99;
+	int point = 90;
 	
 	FILE *f;
 	
